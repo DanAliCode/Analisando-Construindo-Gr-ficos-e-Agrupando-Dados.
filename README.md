@@ -90,10 +90,10 @@ Você pode baixar e explorar o arquivo de análise clicando [aqui](./UC_AnaliseD
 
 ## 🏫 Instituição e Disciplina
 
-Este trabalho foi desenvolvido no contexto acadêmico da disciplina de **Análise e Big Data**, que integra a grade curricular de cursos universitários voltados à área de **tecnologia e ciência de dados**.
+Este trabalho foi desenvolvido no contexto acadêmico da UC de **Análise e Big Data**, que integra a grade curricular de cursos de Ciência da Computação da USJT voltados à área de **Analise de dados**.
 
 ---
 
-## ✍️ Autor
+## ✍️ Autor: Danilo Ali
 
 Projeto acadêmico com fins didáticos, elaborado como parte das atividades práticas da disciplina mencionada acima.
